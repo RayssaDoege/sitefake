@@ -1,0 +1,54 @@
+body {
+    background-image: url('img/hermanocassino.png');
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    margin: 0;
+    background-color: #8B0000; 
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+.Hermanito label {
+    display: block;
+    margin-top: 10px;
+}
+label {
+    font-size: 18px; /* Tamanho da fonte do label */
+}
+
+input[type="text"] {
+    font-size: 16px; /* Tamanho da fonte do input */
+    padding: 8px; /* Espaçamento interno opcional */
+    width: 100%; /* Largura total */
+    max-width: 450px; /* Largura máxima do input */
+    margin-top: 5px; /* Espaçamento superior opcional */
+}
+.Hermanito {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+}
+
+.Hermanito h1 {
+    margin-bottom: 20px;
+}
+.Hermanito label {
+    display: block;
+    margin-top: 10px;
+}
+
+
